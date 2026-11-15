@@ -18,8 +18,16 @@
 </p>
 
 <p align="center">
-<b>⚠️ THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY — USE IT AT YOUR OWN RISK. ⚠️</b>
+<img src="https://img.shields.io/badge/⚠️_WARNING-EDUCATIONAL_USE_ONLY-brightgreen?style=for-the-badge&labelColor=ff0000&color=000000" />
 </p>
+
+<p align="center">
+<b>🚫 STRICTLY FOR EDUCATIONAL PURPOSES ONLY. 🚫</b><br>
+<b>⚠️ USE ENTIRELY AT YOUR OWN RISK. ⚠️</b><br>
+<b>☠️ UNAUTHORIZED USE = YOUR PROBLEM, NOT MINE. ☠️</b>
+</p>
+
+> 🚨 **HARD WARNING:** Do NOT use this on networks, devices, or airwaves you do not own or have **explicit written permission** to test. The author takes **ZERO responsibility** for anything you do with this. You break it, you own it. 💀
 
 ---
 
@@ -40,7 +48,7 @@ This project pairs the pocket-sized **ESP32-C3** with the legendary **NRF24L01**
 - 🛠️ **Plug & experiment** — perfect for bench tests and learning wireless protocols
 - 🚀 **Open hardware spirit** — learn by doing, do by breaking (respectfully 😅)
 
-> ⚠️ **REMINDER:** *This project is for educational purposes only — use it at your own risk.* ⚠️
+> 🚨 **HARD REMINDER:** *EDUCATIONAL USE ONLY. USE AT YOUR OWN RISK. NO excuses, no exceptions — if you misuse this, that is 100% on YOU.* ☠️
 
 ---
 
@@ -70,7 +78,7 @@ Time to connect the dots! ⚡ Double-check everything **before** powering up.
 
 </details>
 
-> ⚠️ **REMINDER:** *This project is for educational purposes only — use it at your own risk.* ⚠️
+> 🚨 **HARD REMINDER:** *EDUCATIONAL USE ONLY. USE AT YOUR OWN RISK. NO excuses, no exceptions — if you misuse this, that is 100% on YOU.* ☠️
 
 ---
 
@@ -88,7 +96,7 @@ Time to connect the dots! ⚡ Double-check everything **before** powering up.
 <img width="75%" src="https://github.com/user-attachments/assets/e68c59d4-42cd-4a56-959a-6802cc6a8e9f" alt="NRF24L01 pinout" />
 </p>
 
-> ⚠️ **REMINDER:** *This project is for educational purposes only — use it at your own risk.* ⚠️
+> 🚨 **HARD REMINDER:** *EDUCATIONAL USE ONLY. USE AT YOUR OWN RISK. NO excuses, no exceptions — if you misuse this, that is 100% on YOU.* ☠️
 
 ---
 
@@ -110,17 +118,18 @@ Get these installed before the magic happens ✨
 4. Hit **Install** ✅
 5. Make sure your **ESP32 board package** is installed, select your **ESP32-C3** board, and smash **Compile** ▶️
 
-> ⚠️ **REMINDER:** *This project is for educational purposes only — use it at your own risk.* ⚠️
+> 🚨 **HARD REMINDER:** *EDUCATIONAL USE ONLY. USE AT YOUR OWN RISK. NO excuses, no exceptions — if you misuse this, that is 100% on YOU.* ☠️
 
 ---
 
 ## ⚠️・DISCLAIMER — READ THIS, SERIOUSLY
 
 <blockquote>
-<b>🚨 THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY — USE IT AT YOUR OWN RISK.</b>
+<b>🚨 THIS PROJECT IS FOR EDUCATIONAL PURPOSES ONLY. USE IT AT YOUR OWN RISK. PERIOD.</b>
 <br><br>
-This project exists for learning, electronics experimentation, and authorized wireless research. Nothing more.
-By using any code or information from this repository, <b>you accept full responsibility for your own actions</b>.
+This project exists <b>ONLY</b> for learning, electronics experimentation, and <b>authorized</b> wireless research on <b>your own equipment</b>. Nothing more.
+By using any code or information from this repository, <b>you accept FULL and SOLE responsibility for your own actions</b>.
+If you do not understand the risks, <b>DO NOT USE THIS</b>. If you do not have permission, <b>DO NOT USE THIS</b>.
 </blockquote>
 
 The author is **not** responsible for:
@@ -130,7 +139,20 @@ The author is **not** responsible for:
 - ❌ Unauthorized wireless interference
 - ❌ Violations of local laws or regulations
 
-**🙏 This is for educational purposes only. Use it at your own risk — test responsibly and stay in your own lane (and your own lab bench).**
+**☠️ This is for educational purposes only. Use it ENTIRELY at your own risk. No permission? NO testing. No responsibility accepted. Your actions, your consequences. 💀**
+
+---
+
+## 🗺️・ROADMAP — WHERE THIS IS HEADED
+
+- [x] 🔌 Basic NRF24L01 communication
+- [x] 📺 Channel scanning experiments
+- [ ] 📶 Dual-module TX/RX chat
+- [ ] 📊 OLED signal monitor
+- [ ] 🌐 Web dashboard via WiFi
+- [ ] 🧪 More wireless research!
+
+> 🚨 **HARD REMINDER:** *EDUCATIONAL USE ONLY. USE AT YOUR OWN RISK. NO excuses, no exceptions — if you misuse this, that is 100% on YOU.* ☠️
 
 ---
 
@@ -144,7 +166,7 @@ If this project made you smile, made you learn, or made your LED blink for the f
 - 💡 **PRs welcome** — bring your best ideas!
 - 🔥 **Keep building** cool stuff and share it with the world
 
-> ⚠️ **REMINDER:** *This project is for educational purposes only — use it at your own risk.* ⚠️
+> 🚨 **HARD REMINDER:** *EDUCATIONAL USE ONLY. USE AT YOUR OWN RISK. NO excuses, no exceptions — if you misuse this, that is 100% on YOU.* ☠️
 
 ---
 
@@ -160,4 +182,4 @@ If this project made you smile, made you learn, or made your LED blink for the f
 © All Rights Reserved.
 </p>
 
-> ⚠️ **REMINDER:** *This project is for educational purposes only — use it at your own risk.* ⚠️
+> 🚨 **HARD REMINDER:** *EDUCATIONAL USE ONLY. USE AT YOUR OWN RISK. NO excuses, no exceptions — if you misuse this, that is 100% on YOU.* ☠️
