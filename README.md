@@ -184,4 +184,4 @@ If this project made you smile, made you learn, or made your LED blink for the f
 
 > 🚨 **HARD REMINDER:** *EDUCATIONAL USE ONLY. USE AT YOUR OWN RISK. NO excuses, no exceptions — if you misuse this, that is 100% on YOU.* ☠️
 
-
+<meta name="google-site-verification" content="_PEZdyT_k6NWV4wjT_nIXebVJIqGCn-kpz9YUL8Mzxg" />
